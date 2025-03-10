@@ -1,5 +1,3 @@
-# Tokyo-Airbnb-Analysis
-
 # Tokyo Airbnb Analysis
 
 ## Overview
